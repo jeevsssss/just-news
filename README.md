@@ -30,7 +30,7 @@
 
 ## Credits
 - News data provided by [https://newsapi.org/] 
-- Icons made by [Icon Designer] from [www.flaticon.com]
+- Icons from [www.flaticon.com]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
