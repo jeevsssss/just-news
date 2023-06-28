@@ -3,7 +3,7 @@
 ## Description
 "Just News" is a Chrome extension that allows you to stay updated with the latest news articles. It fetches news data from an API and displays them in a user-friendly interface.
 
-![Just News](images/demo.png)
+![Just News](demo.png)
 
 ## Features
 - Search for news articles using keywords
