@@ -29,7 +29,7 @@
 - Axios (for API requests)
 
 ## Credits
-- News data provided by [API Name]
+- News data provided by [https://newsapi.org/] 
 - Icons made by [Icon Designer] from [www.flaticon.com]
 
 ## License
